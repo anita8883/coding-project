@@ -54,8 +54,8 @@ footer {
 	clear:both;
 	}
 
-footer a {
-	position:absoute;
+.logo {
+	position:center;
 	width: 100%;	
 	align: center;
 	margin: 0 5px 0 2px;
